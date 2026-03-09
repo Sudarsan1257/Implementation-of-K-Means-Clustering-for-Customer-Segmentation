@@ -33,12 +33,6 @@ RegisterNumber:  212224220111
 */
 ```
 ```python
-/*
-Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Deepak S
-RegisterNumber: 212224230053
-*/
-
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("Mall_Customers.csv")
